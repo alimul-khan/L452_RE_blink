@@ -12,4 +12,3 @@
 10. "Edit Launch Configuration Properties" ![Keep as it is](8.png)
 11. Look for "Download Verified Successfully". Shutting down ![Exit](9.png)
 12. [See the demonstration here](https://youtube.com/shorts/RZo_RBDG4Vc?feature=share)
-13. [embed]http://example.com/file.pdf[/embed]
