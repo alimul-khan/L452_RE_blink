@@ -13,3 +13,4 @@
 11. Look for "Download Verified Successfully". Shutting down ![Exit](9.png)
 12. [See the demonstration here](https://youtube.com/shorts/RZo_RBDG4Vc?feature=share)
 13. [embed] https://github.com/alimul-khan/L452_RE_blink/blob/main/UM2324%20STM32%20Nucleo-64%20Boards%20(MB1360).pdf [/embed]
+14. [embed]http://example.com/file](https://github.com/alimul-khan/L452_RE_blink/blob/main/UM2324%20STM32%20Nucleo-64%20Boards%20(MB1360).pdf[/embed]
