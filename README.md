@@ -7,4 +7,7 @@
 5. Click Finish
 6. In Pinout and Configuration, assign PA5 as GPIO_output ![](4.png)
 7. Copy my_blink.h into Core >> Inc and my_blink.c into Core >> Src ![](5.png)
-8. 
+8. Use any function debug or toggle inside the while() {loop}. ![](6.png)
+9. Hit "Run" button ![](7.png)
+10. "Edit Launch Configuration Properties" ![Keep as it is](8.png)
+11. Look for "Download Verified Successfully". Shutting down ![Exit](9.png)
